@@ -24,8 +24,8 @@ To develop a neural network regression model for the given dataset.
 ### STEP 7:Evaluate the model with the testing data.
 ## PROGRAM
 ```
-DEVELOPED BY : DEEPIKA S
-REGISTER NUMBER : 212222230028
+DEVELOPED BY :VAISHALI BALAMURUGAN
+REGISTER NUMBER : 212222230164
 ```
 
 ## Importing Required packages
@@ -88,15 +88,18 @@ X_n1_1 = Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
-![dataset1](https://github.com/user-attachments/assets/acb50f99-c29f-48bc-af25-9cd189e1ee42)
+![image](https://github.com/user-attachments/assets/b6ebec45-2a1d-43d7-bdfd-973ca360d9fe)
+
 ## OUTPUT
 ## Training Loss Vs Iteration Plot
-![dataset2](https://github.com/user-attachments/assets/3cdf42dd-9b3c-4b79-84f6-a031898a72be)
+![image](https://github.com/user-attachments/assets/34074f8a-ac57-4ddb-869b-19b27646cdf0)
+
 ## Test Data Root Mean Squared Error
-![new1](https://github.com/user-attachments/assets/a7192941-6e51-4eba-b2a5-c5e3d545eb36)
-![dataset3](https://github.com/user-attachments/assets/f76d458f-c816-44b2-ba40-ec0e93f3163f)
+![image](https://github.com/user-attachments/assets/05a203d6-69ce-450d-b35e-2a6a3f1bb58f)
+
 ## New Sample Data Prediction
-![new2](https://github.com/user-attachments/assets/ef3babf6-01a7-4ad3-8a64-4289449cb55f)
+![image](https://github.com/user-attachments/assets/b84fa416-e742-4098-8769-0b0f357688bc)
+
 
 ## RESULT
 Thus a Neural network for Regression model is Implemented
